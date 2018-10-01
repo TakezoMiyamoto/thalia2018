@@ -36,6 +36,9 @@ gem 'jquery-rails'
 gem 'bootstrap-sass'
 gem 'twitter-bootstrap-rails', '4.0.0'
 
+# env
+gem "dotenv"
+
 # form
 gem 'simple_form'
 # Use ActiveStorage variant
